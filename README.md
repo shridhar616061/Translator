@@ -1,2 +1,0 @@
-# Translator
-Mini project (college)
